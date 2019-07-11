@@ -42,6 +42,9 @@
                         <li class="nav-item">
                             <a href="{{ url('/product') }}" class="nav-link">Manajemen Produk</a>
                         </li>
+                        <li class="nav-item">
+                            <a href="{{ url('/customer') }}" class="nav-link">Manajemen Customer</a>
+                        </li>
                         @guest
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
