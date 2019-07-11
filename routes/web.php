@@ -49,5 +49,6 @@ Route::group(['middleware' => 'auth'], function() {
         Route::delete('/{id}', 'InvoiceController@deleteProduct')->name('invoice.delete_product');
         Route::get('/', 'InvoiceController@index')->name('invoice.index');
         Route::delete('/{id}/delete', 'InvoiceController@destroy')->name('invoice.destroy');
+        Route::get('/{id}/print', 'InvoiceController@generateInvoice')->name('invoice.print');
     });    
 });
