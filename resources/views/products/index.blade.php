@@ -11,7 +11,7 @@
                                 <h3 class="card-title">Manajemen Produk</h3>
                             </div>
                             <div class="col-md-6">
-                                <a href="{{ url('/product/new') }}" class="btn btn-primary btn-sm float-right">Tambah Data</a>
+                                <a href="{{ url('/product/create') }}" class="btn btn-primary btn-sm float-right">Tambah Data</a>
                             </div>
                         </div>
                     </div>
