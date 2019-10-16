@@ -49,7 +49,7 @@
     <div class="container">
         <table>
             <caption>
-                Daengweb Invoice App
+                Maju Mundur Cantik Invoice App
             </caption>
             <thead>
                 <tr>
@@ -59,10 +59,10 @@
                 <tr>
                     <td colspan="2">
                         <h4>Perusahaan: </h4>
-                        <p>Daengweb.<br>
-                            Jl Sultan Hasanuddin Makassar<br>
-                            085343966997<br>
-                            support@daengweb.id
+                        <p>Maju Mundur Cantik<br>
+                            Jl Bojong Koneng<br>
+                            0895330774249<br>
+                            akbar96p@gmail.com
                         </p>
                     </td>
                     <td colspan="2">
